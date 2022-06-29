@@ -56,8 +56,8 @@ return [
     */
 
     'from' => [
-        'address' => 'propay@dkweblive.top',
-        'name' => 'ProPay App',
+        'address' => '',
+        'name' => '',
     ],
 
     /*
@@ -84,9 +84,9 @@ return [
     |
     */
 
-    'username' => 'propay@dkweblive.top',
+    'username' => '',
 
-    'password' => 'ik6CNAuN@jNo',
+    'password' => '',
 
     /*
     |--------------------------------------------------------------------------
